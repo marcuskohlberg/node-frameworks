@@ -22,6 +22,8 @@ The frameworks are listed by number of watchers, descending, as of March 18, 201
 | [Geddy][geddy]         | [Matthew Eernisse][mattheweernisse]                   | 101      | 1,703  |
 | [CompoundJS][compound] | [Anatoliy Chakkaev][1602]                             | 91       | 1,542  |
 | [Flatiron][flatiron]   | [Nodejitsu][nodejitsu]                                | 75       | 1,146  |
+| [Encore.ts][encore]    | [Encore][encoredev]                                   | 47       | 5,385  |
+
 
 ### Stack Integration
 
@@ -42,6 +44,8 @@ Traditionally, frameworks are explicitly server-side. However, there are now fra
 | Geddy      | ✓           | ✓           |
 | CompoundJS | ✓           |             |
 | Flatiron   | ✓           |             |
+| Encore.ts  | ✓           |             |
+
 
 ### Dependencies
 
@@ -62,6 +66,7 @@ Some frameworks are built upon other frameworks.
 | Geddy      |                                  |
 | CompoundJS |                                  |
 | Flatiron   |                                  |
+| Encore.ts  |                                  |
 
 ### Source Lines of Code
 
@@ -309,3 +314,6 @@ THE SOFTWARE.
 [fibers]: https://github.com/laverdet/node-Fibers
 [consolidate]: https://github.com/visionmedia/consolidate.js/
 [domains]: http://nodejs.org/api/domain.html
+[encore]: https://github.com/encoredev/encore
+[encoredev]: https://encore.dev
+
